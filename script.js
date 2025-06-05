@@ -30,6 +30,14 @@ const projects = [
   {
     name: "Youtube-clone-UI ",
     link: "https://www.linkedin.com/posts/lavish-batra_webdevelopment-html-css-activity-7262053815493832704-xDWP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1DTAMBCeJAhGe89CultXSajW3fPJnWuYY"
+  },
+  {
+    name: "Personal-Portfolio ",
+    link: "https://protfolio-4rb6.onrender.com"
+  },
+    {
+    name: "Certificates! ",
+    link: "https://drive.google.com/drive/folders/13BWAs-EFs1AYBa-Qd501RSguNdipHTyY?usp=sharing"
   }
 ];
 
